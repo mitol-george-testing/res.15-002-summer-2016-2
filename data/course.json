@@ -1,0 +1,44 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "47df6f3a-42b1-8118-3690-e54058377e21",
+      "b268c766-01c0-75ac-e487-f9cb59fdee53",
+      "5cf435dd-276d-b867-9792-182623713ec9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mission & Metrics: Finance Training for Federal Credit Program Professionals",
+  "course_description": "Federal credit programs involve a unique set of challenges and opportunities. This practical training course for executive and legislative branch decision-makers and staff is aimed at enhancing the understanding of the core financial principles necessary to most effectively design and run those programs. It brings together institutional analysis, risk management and corporate finance disciplines for the purpose of improving the management of federal credit agency resources.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.15-002",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
